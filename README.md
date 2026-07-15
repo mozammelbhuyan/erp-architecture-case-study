@@ -53,4 +53,8 @@ This blueprint became the reference architecture later adapted and extended for 
 
 ---
 
+---
+
+📎 **Technical depth:** for a sample ER diagram of the core metadata schema and a full sample screen specification (Purchase Order), see [TECHNICAL_DEEP_DIVE.md](./TECHNICAL_DEEP_DIVE.md).
+
 *Note: This repository contains a high-level architectural summary only. Detailed table structures, field-level specifications, and screen mockups from the original client-facing document are not published here.*
